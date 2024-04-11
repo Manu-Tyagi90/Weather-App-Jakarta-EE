@@ -1,12 +1,18 @@
+
+https://github.com/Manu-Tyagi90/Weather-App-Jakarta-EE/assets/124266608/a367af71-930b-436b-ac78-754b442243dc
+
 # WeatherApp: Your Personal Meteorologist 🌦️
 
-![weather-logo](https://github.com/Manu-Tyagi90/Weather-App-Jakarta-EE/assets/124266608/d24b9640-6c86-4cf3-8a79-445eaa470166)
+
+
+
+
 
 
 ## Overview
 
 WeatherApp is a Java-based web application that provides real-time weather forecasts and meteorological insights. Whether you're planning a weekend getaway or just curious about the weather, WeatherApp has you covered!
-
+![weather-logo](https://github.com/Manu-Tyagi90/Weather-App-Jakarta-EE/assets/124266608/d24b9640-6c86-4cf3-8a79-445eaa470166)
 ### Features
 
 1. **Backend with Servlets**: Our robust backend leverages Servlets to handle data retrieval, processing, and communication with external weather APIs.
